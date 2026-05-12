@@ -1,4 +1,4 @@
-const API_KEY = '12886b9aa5msh966b0c879f240f9p13b26fjsn3f4c54dc7abf';
+const API_KEY = 'Your_API_KEY';
 
 // Step 1: Fetch channel videos
 async function getChannelVideos(channelId) {
