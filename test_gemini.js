@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyATktrlv6BD283anjBZgNomMQMsRya0Xc';
+const API_KEY = 'API_KEY';
 
 // Sample comments for testing
 const sampleComments = [
